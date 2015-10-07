@@ -1,0 +1,3 @@
+Blink2Radio test code.
+Code was installed on two motes and communication between the two motes was observed.
+

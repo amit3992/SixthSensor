@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<buildTargets>
+<default version="4">
+<default>true</default>
+<project/>
+<target>micaz</target>
+<make-extras>
+<extra name="install">
+<parameter ask="false" name="Mote Id">99</parameter>
+</extra>
+<extra name="mib510">
+<parameter ask="false" name="&lt;dev&gt;">/dev/ttyUSB0</parameter>
+</extra>
+</make-extras>
+<includes/>
+<excludes>
+<exclude>.*\.svn.*</exclude>
+</excludes>
+<typedefs/>
+<macros/>
+<boards/>
+<no-std-incl>false</no-std-incl>
+<component/>
+<component-file>/Part2Task2/src/TestSerialAppC.nc</component-file>
+<include-last-build>true</include-last-build>
+<include-env-default-paths>true</include-env-default-paths>
+<environment_variables/>
+</default>
+<client-data/>
+</buildTargets>

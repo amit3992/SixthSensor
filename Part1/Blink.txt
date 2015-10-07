@@ -1,0 +1,2 @@
+Blink
+The code was modified such that all the LEDs were controlled by a single timer. Timer0

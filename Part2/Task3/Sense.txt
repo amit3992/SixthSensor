@@ -1,0 +1,2 @@
+Sensing task
+In this task, micaz mote was used as a light sensor and if the light intensity went below a particular threshold value it would set the buzzer for 1 sec.

@@ -1,0 +1,2 @@
+BaseStation.
+In this section, Blink2Radio was installed on two motes and BaseStation code was installed on a third node. The BaseStation node was used as a monitoring node. Using the command '$ java net.tinyos.tools.Listen -comm serial@COM1:telos' and '$ java net.tinyos.tools.Listen -comm serial@/dev/ttyS0:micaz' we observed the communication between the other two motes.
